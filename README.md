@@ -1,1 +1,2 @@
-# dio-jogo-da-memoria
+# Jogo da memória
+Curso TQI Fullstack Developer da DIO
